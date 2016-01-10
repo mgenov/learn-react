@@ -1,0 +1,21 @@
+{
+  "name": "learn-react",
+  "version": "0.0.1",
+  "description": "Learn React Today",
+  "license": "MIT",
+  "repository": "mgenov/learn-react",
+  "author": {
+    "name": "Miroslav Genov",
+    "email": "mgenov@gmail.com",
+    "url": "mgenov.info"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^6.0.0",
+    "grunt-browserify": "^4.0.1",
+    "karma-browserify": "^4.4.2",
+    "load-grunt-tasks": "^3.4.0"
+  }
+}
